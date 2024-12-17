@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahid3150&label=Profile%20views&color=0e75b6&style=flat" alt="wahid3150" /> </p>
 
-- 🔭 I’m currently working on **(OTP verification & JWT authentication)**
+- 🔭 I’m currently working on **(major end-to-end project)**
 
 - 🌱 I’m currently learning **Quality Assurance**
 
