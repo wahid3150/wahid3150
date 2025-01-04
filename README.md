@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahid ali</h1>
-<h3 align="center">A passionate Full Stack MERN Developer with a focus on backend development. With a Master's degree in Computer Science, I have a deep understanding of software architecture and development principles. I specialize in building scalable and efficient web applications using MongoDB, Express.js, React, and Node.js.</h3>
+<p align="center">A passionate Full Stack MERN Developer with a focus on backend development. With a Master's degree in Computer Science, I have a deep understanding of software architecture and development principles. I specialize in building scalable and efficient web applications using MongoDB, Express.js, React, and Node.js.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahid3150&label=Profile%20views&color=0e75b6&style=flat" alt="wahid3150" /> </p>
 
