@@ -3,22 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahid3150&label=Profile%20views&color=0e75b6&style=flat" alt="wahid3150" /> </p>
 
-- 🔭 I’m currently working on **(major end-to-end project)**
-
-- 🌱 I’m currently learning **Quality Assurance**
-
-- 👯 I’m looking to collaborate on **All type Node.js and Express.js project**
-
-- 🤝 I’m looking for help with **Beginner people project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/wahid3150](https://github.com/wahid3150)
-
-- 💬 Ask me about **Backend development**
-
-- 📫 How to reach me **https://www.linkedin.com/in/wahidanon/**
-
-- ⚡ Fun fact **eat, code, sleep and repeat.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wahidanon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wahidanon" height="30" width="40" /></a>
