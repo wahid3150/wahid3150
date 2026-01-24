@@ -67,18 +67,6 @@ I specialize in building scalable REST APIs, clean data models, and high-perform
 
 ---
 
-### 🔹 Learning Management System (Backend Focus)
-**API-driven platform**
-
-- User roles (Admin / Instructor / Student)
-- Course & content management
-- Secure API access control
-- Scalable data modeling
-
-**Tech:** Node.js, Express, MongoDB
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
