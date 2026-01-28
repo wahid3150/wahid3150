@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wahid Ali</h1>
 
 <h4 align="center">
-Backend-focused MERN Stack Developer with a Master’s degree in Computer Science.
-I specialize in building scalable REST APIs, clean data models, and high-performance server-side applications using MongoDB, Express.js, Node.js, and React.
+Backend-focused MERN Stack Developer with a Master’s degree in Computer Science.  
+Experienced in building secure, production-ready REST APIs and authentication systems with a strong focus on backend architecture and performance.
 </h4>
 
 <p align="left">
@@ -42,16 +42,20 @@ I specialize in building scalable REST APIs, clean data models, and high-perform
 
 ## 🧠 Featured Projects
 
-### 🔹 Job Application System (MERN)
-**Backend-centric full-stack application**
+### 🔹 Secure Authentication System (MERN) — *In Progress*
+**Production-ready authentication & authorization system**
 
-- Role-based authentication (Job Seeker / Employer)
-- Secure REST APIs with JWT & middleware
-- MongoDB schema design with relations & indexing
-- Analytics for employers (jobs, applicants, hires)
-- Clean MVC architecture
+- Secure user registration & login with **bcrypt**
+- **JWT access & refresh tokens**
+- **Role-based authorization** (Admin / User)
+- **Two-Factor Authentication (2FA / MFA)**
+- IP & email **rate-limiting**
+- **CSRF protection**
+- Input sanitization against **NoSQL Injection**
+- Secure cookies (**httpOnly, secure, sameSite**)
 
-**Tech:** Node.js, Express.js, MongoDB, React, JWT
+**Tech:** Node.js, Express.js, MongoDB, JWT, React  
+**Focus:** Backend security, auth architecture
 
 ---
 
