@@ -42,20 +42,19 @@ Experienced in building secure, production-ready REST APIs and authentication sy
 
 ## 🧠 Featured Projects
 
-### 🔹 Secure Authentication System (MERN) — *In Progress*
-**Production-ready authentication & authorization system**
+### 🔹 Learning Management System (MERN) — *In Progress*
 
-- Secure user registration & login with **bcrypt**
-- **JWT access & refresh tokens**
-- **Role-based authorization** (Admin / User)
-- **Two-Factor Authentication (2FA / MFA)**
-- IP & email **rate-limiting**
-- **CSRF protection**
-- Input sanitization against **NoSQL Injection**
-- Secure cookies (**httpOnly, secure, sameSite**)
+**Scalable course platform with role-based architecture**
 
-**Tech:** Node.js, Express.js, MongoDB, JWT, React  
-**Focus:** Backend security, auth architecture
+- Role-based system (**Instructor / Student**)
+- Course creation & management APIs
+- Secure authentication using **JWT**
+- **Payment integration workflow** for course purchases
+- Backend architecture following **MVC pattern**
+- RESTful APIs for course enrollment, content delivery, and user management
+
+**Tech:** Node.js, Express.js, MongoDB, React, JWT  
+**Focus:** Backend architecture, API design, scalable data models
 
 ---
 
