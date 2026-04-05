@@ -42,19 +42,24 @@ Experienced in building secure, production-ready REST APIs and authentication sy
 
 ## 🧠 Featured Projects
 
-### 🔹 Learning Management System (MERN) — *In Progress*
+### 🔹 Hunger Food (Food Delivery Platform) — *In Progress*
 
-**Scalable course platform with role-based architecture**
+**Scalable food delivery system with real-time features and multi-role architecture**
 
-- Role-based system (**Instructor / Student**)
-- Course creation & management APIs
-- Secure authentication using **JWT**
-- **Payment integration workflow** for course purchases
-- Backend architecture following **MVC pattern**
-- RESTful APIs for course enrollment, content delivery, and user management
+- Multi-role system (**User / Owner / Delivery Rider**)
+- Secure authentication (**JWT + Google OAuth**) with reset password flow
+- Shop & food item management (CRUD + image upload using **Multer & Cloudinary**)
+- Complete order lifecycle (**Cart → Checkout → Place Order → Status Updates**)
+- Role-based dashboards for users, owners, and delivery riders
+- **Delivery assignment system** with rider acceptance flow
+- **Real-time tracking using Socket.io** (live order updates & tracking)
+- **OTP-based delivery verification**
+- Integrated **Razorpay payment gateway**
+- Advanced features: search, filtering, ratings & delivery earnings tracking
 
-**Tech:** Node.js, Express.js, MongoDB, React, JWT  
-**Focus:** Backend architecture, API design, scalable data models
+**Tech:** Node.js, Express.js, MongoDB, React, Socket.io, Redux Tookit, Razorpay
+
+**Focus:** Backend archeticture, real-time system, scalable APIs
 
 ---
 
