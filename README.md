@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wahid Ali</h1>
 
-<h4 align="center">
-Backend-focused MERN Stack Developer with a Master’s degree in Computer Science.  
-Experienced in building secure, production-ready REST APIs and authentication systems with a strong focus on backend architecture and performance.
-</h4>
+<h5 align="center">
+Backend-focused MERN Stack Developer with a Master’s degree in Computer Science. Strong hands-on experience building secure REST APIs, authentication systems, and real-time backend features. Focused on designing scalable architectures, writing clean code, and delivering reliable, production-ready systems.
+</h5>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wahid3150&label=Profile%20views&color=0e75b6&style=flat" alt="wahid3150" />
