@@ -29,38 +29,11 @@ Backend-focused MERN Stack Developer with a Master’s degree in Computer Scienc
 <a href="https://linkedin.com/in/wahidanon" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://fb.com/wahidanon" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/wahidanon" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
 </p>
 
 ---
 
 ## 🧠 Featured Projects
-
-### 🔹 Hunger Food (Food Delivery Platform) — *In Progress*
-
-**Scalable food delivery system with real-time features and multi-role architecture**
-
-- Multi-role system (**User / Owner / Delivery Rider**)
-- Secure authentication (**JWT + Google OAuth**) with reset password flow
-- Shop & food item management (CRUD + image upload using **Multer & Cloudinary**)
-- Complete order lifecycle (**Cart → Checkout → Place Order → Status Updates**)
-- Role-based dashboards for users, owners, and delivery riders
-- **Delivery assignment system** with rider acceptance flow
-- **Real-time tracking using Socket.io** (live order updates & tracking)
-- **OTP-based delivery verification**
-- Integrated **Razorpay payment gateway**
-- Advanced features: search, filtering, ratings & delivery earnings tracking
-
-**Tech:** Node.js, Express.js, MongoDB, React, Socket.io, Redux Tookit, Razorpay
-
-**Focus:** Backend archeticture, real-time system, scalable APIs
-
----
 
 ### 🔹 Real-Time Chat Application
 **Scalable messaging system**
